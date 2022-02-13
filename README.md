@@ -1,4 +1,4 @@
-# React app that uses the Tom Tom API and the matrix routing agorithm for calculating the shortest distance between markers on the map.
+## React app that uses the Tom Tom API and the matrix routing agorithm for calculating the shortest distance between markers on the map.
 
 
 ![image](https://user-images.githubusercontent.com/89631367/153733255-44fedee1-1c3c-4974-8310-ad9b1d67762f.png)
